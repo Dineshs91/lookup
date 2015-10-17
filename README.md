@@ -4,6 +4,16 @@ Get the meaning of a word on your terminal
 
 ![demo](look-up-demo.gif "look-up demo")
 
+## Prerequisites
+
+*Click*
+
+```$ pip install click```
+
+*Wordnik*
+
+```$ pip install wordnik```
+
 ## Install
 
 ```$ pip install look-up```
